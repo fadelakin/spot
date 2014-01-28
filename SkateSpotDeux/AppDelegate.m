@@ -34,7 +34,7 @@ static NSString * const defaultsLocationKey = @"currentLocation";
     // Override point for customization after application launch.
     
     // Parse initialization
-	[Parse setApplicationId:@"SXRsqUmhfBBl8Tvnp2j4pVDCvCeDFDvVFSVF12Ll" clientKey:@"2oGxb5VV5PO0pTYpah31kEKvaDeLZ8D3O1uZEbUH"];
+	[Parse setApplicationId:@"insert application id here" clientKey:@"insert client key here"];
     
     // Grab values from NSUserDefaults:
 	NSUserDefaults *userDefaults = [NSUserDefaults standardUserDefaults];
